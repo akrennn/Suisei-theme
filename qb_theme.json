@@ -399,12 +399,9 @@
         "iconpack":"rosiecord-iconsax"
     },
     "spec": 2
-            }
-  },
-  "background": {
-    "blur": 0,
-    "url": "https://e0.pxfuel.com/wallpapers/443/886/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg",
-    "alpha": 0.68
-  },
-    "spec": 2
-}
+            },
+    "background": {
+        "blur": 0,
+        "url": "https://e0.pxfuel.com/wallpapers/443/886/desktop-wallpaper-sunset-dark-theme-minimal-nature-dark-minimalist-theme-sun.jpg",
+        "alpha": 0.68
+    }
